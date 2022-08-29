@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">neo memo</string>
+    <string name="add_memo">Add Memo</string>
+    <string name="enter_title">Enter Title</string>
+    <string name="tell_your_story">Tell your story</string>
+    <string name="memo_list">Memo List</string>
+    <string name="utter_words">Speak:</string>
+    <string name="title">Title</string>
+    <string name="delete">Delete</string>
+    <string name="edit">Edit</string>
+    <string name="iox_prime_presents">IoX Prime presents </string>
+    <string name="copy_to_clipboard">Copy to clipboard</string>
+    <string name="trade_mark">Trade Mark</string>
+    <string name="presents">presents</string>
+    <string name="image_button">ImageButton</string>
+</resources>
